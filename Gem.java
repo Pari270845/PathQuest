@@ -1,4 +1,3 @@
-// Polymorphism: Gem overrides the abstract symbol() from GameEntity
 package pathquest.model;
 
 public class Gem extends GameEntity {
